@@ -1,2 +1,9 @@
 # Simon-dice
-Minijuego desarrollado utilizando HTML, CSS, Bootstrap, JavaScript, JQuery y manipulación de DOM
+Minijuego responsivo desarrollado utilizando:
+
+* HTML
+* CSS
+* Bootstrap
+* JavaScript
+* JQuery
+* Manipulación de DOM
